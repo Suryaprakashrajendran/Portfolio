@@ -23,7 +23,7 @@ const profile = {
   name: "Suryaprakash",
   title: "Python Automation & ETL",
   summary:
-    "I build reliable automation, ETL pipelines, and data workflows for SAP, Salesforce, and enterprise systems. Strong focus on image/PDF diffing, Robot Framework, and clean, reproducible tooling.",
+    "I build reliable automation, ETL pipelines, and data workflows for SAP, Salesforce, and enterprise systems. Strong focus on Robot Framework, python, playwright and clean, reproducible tooling.",
   location: "India (IST)",
   email: "suryaprakash.ac.in@gmail.com",
   phone: "+91 6383511559",
