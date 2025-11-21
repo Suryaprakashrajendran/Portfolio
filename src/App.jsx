@@ -24,8 +24,8 @@ const profile = {
   title: "Python Automation & ETL",
   summary:
     "I build reliable automation, ETL pipelines, and data workflows for SAP, Salesforce, and enterprise systems. Strong focus on Robot Framework, python, playwright and clean, reproducible tooling.",
-  location: "India (IST)",
-  email: "suryaprakash.ac.in@gmail.com",
+  location: "Ranimookanur [635303], Dharmapuri,TamilNadu, India",
+  email: "suryaprakashr1005@gmail.com",
   phone: "+91 6383511559",
   links: {
     github: "https://github.com/Suryaprakashrajendran?tab=repositories",
@@ -136,7 +136,7 @@ const experience = [
     projects: [
       {
         name: "Simac",
-        role: "Process Automation Engineer",
+        role: "Automation Consultant",
         period: "2024 — Present",
         points: [
           "Built ETL pipelines to extract, transform, and load SAP data from SFTP servers into internal data stores using Python and Symphony.",
