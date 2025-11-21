@@ -30,7 +30,7 @@ const profile = {
   links: {
     github: "https://github.com/Suryaprakashrajendran?tab=repositories",
     linkedin: "https://www.linkedin.com/in/suryaprakash-r-/?originalSubdomain=in",
-    resume: "/src/images/suryaprakash_R.pdf",
+    resume: "/files/suryaprakash_R.pdf",
   },
   skills: [
     "Python",
