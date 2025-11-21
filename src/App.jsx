@@ -295,6 +295,8 @@ export default function App() {
           <div className="flex items-center gap-2">
             <a
               href="/src/files/suryaprakash_R.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-xl px-3 py-2 text-sm font-medium bg-indigo-600 text-white hover:bg-indigo-700 shadow"
             >
               <FileDown className="w-4 h-4" aria-hidden /> Resume
