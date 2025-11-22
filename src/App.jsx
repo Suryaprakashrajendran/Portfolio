@@ -294,7 +294,7 @@ export default function App() {
           </nav>
           <div className="flex items-center gap-2">
             <a
-              href="/src/files/suryaprakash_R.pdf"
+              href="https://github.com/Suryaprakashrajendran/Portfolio/blob/master/src/files/suryaprakash_R.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-xl px-3 py-2 text-sm font-medium bg-indigo-600 text-white hover:bg-indigo-700 shadow"
